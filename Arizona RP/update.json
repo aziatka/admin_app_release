@@ -1,5 +1,5 @@
 {
-	"latest": 70,
+	"latest": 71,
 	"version": "1.16 Release",
 	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
 	"patch_load": false,
