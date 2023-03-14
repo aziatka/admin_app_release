@@ -1,7 +1,7 @@
 {
 	"latest": 70,
 	"version": "1.16 Release",
-	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/13_GG.luac",
+	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
 	"patch_load": false,
 	"critical": true,
 	"changes": [
