@@ -4,7 +4,6 @@
 	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20V/updt.exe",
 	"changes": [
 "Переработана система взятия репорта, теперь при значении report = 0, команда не будет прописываться",
-"Добавлены команды взаимодействия за игроком, на чей репорт вы ответили ранее (Подробнее /help)",
 "Исправлена команда /gethereveh"
 ]
 }
