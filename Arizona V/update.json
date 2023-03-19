@@ -1,6 +1,6 @@
 {
 	"latest": 27,
-	"version": "v1.1.2.4 Release",
+	"version": "v1.1.2.3 Release",
 	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20V/updt.exe",
 	"critical": 1,
 	"changes": [
