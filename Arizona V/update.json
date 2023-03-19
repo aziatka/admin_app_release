@@ -2,7 +2,7 @@
 	"latest": 27,
 	"version": "v1.1.2.3 Release",
 	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20V/updt.exe",
-	"critical": 0,
+	"critical": 1,
 	"changes": [
 "Переработана система взятия репорта, теперь при значении report = 0, команда не будет прописываться",
 "Исправлена команда /gethereveh",
