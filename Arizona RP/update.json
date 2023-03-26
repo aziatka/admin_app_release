@@ -43,7 +43,7 @@
         { "address": "80.66.82.147:7777", "id": 1000 }
     ],
     "files": {
-        "gps": 9,
+        "gps": 10,
         "gps_vc": 4,
         "questions": 3,
         "server_cmd": 2,
