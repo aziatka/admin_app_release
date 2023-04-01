@@ -47,7 +47,7 @@
         "gps_vc": 4,
         "questions": 4,
         "server_cmd": 2,
-        "admin_cmd": 3,
+        "admin_cmd": 4,
         "vehicles": 6,
         "skins": 3
     },
