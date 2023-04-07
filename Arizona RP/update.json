@@ -4,6 +4,7 @@
     "updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
     "patch_load": false,
     "critical": false,
+    "event": false,
     "changes": [
         "Изменения в структуре окна /reptools. Добавлено пользовательское соглашение",
         "Улучшения, касательно дизайна некоторых разделов главного меню",
