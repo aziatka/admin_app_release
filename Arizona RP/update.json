@@ -4,7 +4,7 @@
     "updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
     "patch_load": false,
     "critical": false,
-    "event": true,
+    "event": false,
     "changes": [
         "Добавлена возможность изменять дальность прорисовки никнеймов. Изменить этот параметр можно в настройках WallHack'а",
         "Добавлена возможность отключить синхронизацию денег игрока, за которым вы следите. Найти этот пункт можно в /amenu - Основное",
@@ -71,7 +71,7 @@
         "questions": 5,
         "server_cmd": 3,
         "admin_cmd": 5,
-        "vehicles": 7,
+        "vehicles": 8,
         "skins": 4
     },
     "api_url": "https://api.arztools.tech/"
