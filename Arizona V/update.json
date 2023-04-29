@@ -1,14 +1,9 @@
 {
-	"latest": 33,
-	"version": "v1.1.2.6 Release",
+	"latest": 34,
+	"version": "v1.1.2.8 Release",
 	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20V/updt.exe",
 	"critical": 0,
 	"changes": [
-"Исправлена ошибка активной сессии при закрытии процесса RAGE Multiplayer",
-"Исправлен некорректный вывод ответа/сообщения от разработчика",
-"Добавлена возможность ввести свой ID игрового мира в панели слежки",
-"Добавлена консоль (Активация /console), Доступные команды: vannozzo, verinfo, exit, reload, lastid",
-"Добавлен транслит для команды /tp",
-"Прибрались в нашем замечательном офисе"
+"Все изменения глобального обновления: https://vk.com/@elvis_scripts-globalnoe-obnovlenie-arizona-tools-2"
 ]
 }
