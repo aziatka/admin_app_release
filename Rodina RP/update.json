@@ -19,8 +19,8 @@
 		"questions": 1,
 		"server_cmd": 1,
 		"admin_cmd": 2,
-		"vehicles": 1,
-		"skins": 1
+		"vehicles": 2,
+		"skins": 2
 	},
 	"api_url": "https://api.arztools.tech/"
 }
