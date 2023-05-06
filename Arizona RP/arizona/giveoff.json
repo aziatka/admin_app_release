@@ -1,9 +1,9 @@
 {
-    "version": 2,
+    "version": 3,
     "list":
-    {
-        "unwarnoff":
+    [
         {
+            "command": "unwarnoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -18,8 +18,8 @@
                 "A: %S+ снял 1 варн у игрока (%S+), причина: .+"
             ]
         },
-        "givedemotalonoff":
         {
+            "command": "givedemotalonoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -33,8 +33,8 @@
                 "Вы выдали игроку (%S+)%[ID: %d+%] талоны антидеморгана, количество: %d+ шт%."
             ]
         },
-        "delbname":
         {
+            "command": "delbname",
             "type": 1,
             "param": 1,
             "errors":
@@ -47,8 +47,8 @@
                 "%[Информация%] {ffffff}Вы удалили название бизнеса №(%d+)%."
             ]
         },
-        "jailoff":
         {
+            "command": "jailoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -65,8 +65,8 @@
                 "A: %S+%[%d+%] посадил игрока (%S+)%[%d+%] в деморган на %d+ минут%. Причина: .+"
             ]
         },
-        "unapunishoff":
         {
+            "command": "unapunishoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -79,8 +79,8 @@
                 "A: %S+ выпустил в оффлайне с ТСР/КПЗ (%S+), причина: .+"
             ]
         },
-        "makeadminoff":
         {
+            "command": "makeadminoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -95,8 +95,8 @@
                 "%[MakeAdminOff%] .- %S+%[%d+%] установил %d+ уровень администратора игроку (%S+), до этого был: %d+ уровень%."
             ]
         },
-        "giveantijailoff":
         {
+            "command": "giveantijailoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -110,8 +110,8 @@
                 "Вы выдали игроку (%S+)%[ID: %d+%] талоны антитюрьмы, количество: %d+ шт%."
             ]
         },
-        "unjailoff":
         {
+            "command": "unjailoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -125,8 +125,8 @@
                 "A: %S+ выпустил игрока (%S+), причина: .+"
             ]
         },
-        "delhname":
         {
+            "command": "delhname",
             "type": 1,
             "param": 1,
             "errors":
@@ -139,8 +139,8 @@
                 "%[Информация%] {ffffff}Вы удалили название дома №(%d+)%."
             ]
         },
-        "unmuteoff":
         {
+            "command": "unmuteoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -153,8 +153,8 @@
                 "A: %S+ снял заглушку в оффлайне с игрока (%S+), причина: .+"
             ]
         },
-        "banipoff":
         {
+            "command": "banipoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -166,8 +166,8 @@
                 "A: %S+ забанил ip (%S+)%. Причина: .+"
             ]
         },
-        "ungivemydonateoff":
         {
+            "command": "ungivemydonateoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -181,8 +181,8 @@
                 "Вы отменили выдачу доната для игрока (%S+) %(было на выдачу: %d+ шт%)"
             ]
         },
-        "unban":
         {
+            "command": "unban",
             "type": 1,
             "param": 1,
             "errors":
@@ -195,8 +195,8 @@
                 "A: %S+ разбанил игрока (%S+), причина: .+"
             ]
         },
-        "givemydonateoff":
         {
+            "command": "givemydonateoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -211,8 +211,8 @@
                 "%[A%] %S+%[%d+%] передал %d+ доната, игроку (%S+)%[%d+%]"
             ]
         },
-        "agiveskinoff":
         {
+            "command": "agiveskinoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -227,8 +227,8 @@
                 "Вы в оффлайне выдали игроку (%S+) скин: ID %d+ %(получит его при входе в игру%)"
             ]
         },
-        "uvaloff":
         {
+            "command": "uvaloff",
             "type": 1,
             "param": 1,
             "errors":
@@ -242,8 +242,8 @@
                 "Вы выгнали (%S+) из организации"
             ]
         },
-        "notif":
         {
+            "command": "notif",
             "type": 2,
             "param": 1,
             "errors":
@@ -257,8 +257,8 @@
                 "Ник: {ffffff}([^\n]+).+\n{cccccc}Игрок получит уведомление при входе в игру%."
             ]
         },
-        "ungunbanoff":
         {
+            "command": "ungunbanoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -274,8 +274,8 @@
                 "A: %S+ снял бан на использование оружия с игрока (%S+), причина: .+"
             ]
         },
-        "gunbanoff":
         {
+            "command": "gunbanoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -289,8 +289,8 @@
                 "A: %S+%[%d+%] выдал бан на использование оружия (%S+)%[%d+%] на %d+ дней%. Причина: .+"
             ]
         },
-        "apunishoff":
         {
+            "command": "apunishoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -307,8 +307,8 @@
                 "A: %S+%[%d+%] посадил игрока (%S+)%[%d+%] в КПЗ на %d+ минут%. Причина: .+"
             ]
         },
-        "muteoff":
         {
+            "command": "muteoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -325,8 +325,8 @@
                 "A: %S+%[%d+%] заглушил игрока (%S+)%[%d+%] на %d+ минут%. Причина: .+"
             ]
         },
-        "banoff":
         {
+            "command": "banoff",
             "type": 1,
             "param": 2,
             "errors":
@@ -340,8 +340,8 @@
                 "A: %S+ забанил в оффлайне игрока (%S+)%. Причина: .+"
             ]
         },
-        "giveantimuteoff":
         {
+            "command": "giveantimuteoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -355,8 +355,8 @@
                 "Вы выдали игроку (%S+)%[ID: %d+%] талоны антимута, количество: %d+ шт%."
             ]
         },
-        "warnoff":
         {
+            "command": "warnoff",
             "type": 1,
             "param": 1,
             "errors":
@@ -371,5 +371,5 @@
                 "A: %S+%[%d+%] выдал предупреждение игроку (%S+)%[%d+%] %[%d/%d+%] Причина: .+"
             ]
         }
-    }
+    ]
 }
