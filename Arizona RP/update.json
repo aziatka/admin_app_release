@@ -66,13 +66,13 @@
         { "address": "80.66.82.147:7777", "id": 1000 }
     ],
     "files": {
-        "gps": 14,
+        "gps": 15,
         "gps_vc": 5,
-        "questions": 5,
+        "questions": 6,
         "server_cmd": 3,
         "admin_cmd": 5,
         "vehicles": 8,
-        "skins": 4,
+        "skins": 5,
         "giveoff": 4
     },
     "api_url": "https://api.arztools.tech/"
