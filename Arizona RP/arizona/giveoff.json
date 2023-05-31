@@ -1,7 +1,23 @@
 {
-    "version": 5,
+    "version": 6,
     "list":
     [
+        {
+            "command": "setdrugdendrugs",
+            "type": 1,
+            "param": 1,
+            "errors":
+            [
+                {
+                    "match": "Используй: /setdrugdendrugs %[id наркопритона%] %[количество%]",
+                    "alias": "Неверно заполнена команда"
+                }
+            ],
+            "success":
+            [
+                "Вы изменили количество товаров в наркопритоне №(%d+) с %d+ до %d+%."
+            ]
+        },
         {
             "command": "unwarnoff",
             "type": 1,
