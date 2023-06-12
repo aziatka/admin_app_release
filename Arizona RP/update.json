@@ -125,7 +125,7 @@
         "server_cmd": 3,
         "admin_cmd": 5,
         "vehicles": 8,
-        "skins": 5,
+        "skins": 6,
         "giveoff": 6
     },
     "api_url": "https://api.arztools.tech/"
