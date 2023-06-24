@@ -1,5 +1,5 @@
 {
-	"version": 8,
+	"version": 9,
 	"list": [
 		[400, "Landstalker"],
 		[401, "Bravura"],
@@ -596,7 +596,21 @@
 		[6745, "Tank 300 Wey"],
 		[6746, "Bentley Ultratank"],
 		[14131, "Pagani Codalunga"],
-		[14132, "Mercedes-Benz Big Foot"],
-		[14133, "BMW Big Foot"]
+		[14132, "Mercedes-Benz Bigfoot"],
+		[14133, "BMW Bigfoot"],
+		[6650, "Audi R8 Bigfoot"],
+		[14134, "Mercedes-Benz Coach"],
+		[14135, "Mercedes-Benz Transpen"],
+		[14137, "Mercedes-Benz Tourismo"],
+		[14138, "Volvo FH 12"],
+		[14139, "Mack Anthem"],
+		[14140, "Tesla Semi"],
+		[14141, "Western Star"],
+		[14142, "Business Jet"],
+		[14143, "Learjet 60"],
+		[14145, "Spaceflight"],
+		[14193, "Audi R8 Darius"],
+		[14194, "Dodge Charger Angie"],
+		[14195, "Ford Mustang Razor"]
 	]
 }
