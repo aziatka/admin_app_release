@@ -42,9 +42,9 @@
     "files": {
         "gps": 17,
         "gps_vc": 5,
-        "questions": 7,
-        "server_cmd": 3,
-        "admin_cmd": 5,
+        "questions": 8,
+        "server_cmd": 4,
+        "admin_cmd": 6,
         "vehicles": 9,
         "skins": 7,
         "giveoff": 6
