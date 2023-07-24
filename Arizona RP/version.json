@@ -4,7 +4,6 @@
     "script_url": "https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
     "api_url": "https://api.arztools.tech",
     "critical": false,
-    "auth_pass": "До тех пор пока кирилл не купит новый хост",
     "changes": [],
     "servers": [
         { "address": "185.169.134.3:7777", "id": 1, "name": "Phoenix" },
