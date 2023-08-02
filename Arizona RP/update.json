@@ -78,14 +78,14 @@
         { "address": "80.66.82.147:7777", "id": 1000 }
     ],
     "files": {
-        "gps": 17,
+        "gps": 16,
         "gps_vc": 5,
-        "questions": 8,
-        "server_cmd": 4,
-        "admin_cmd": 6,
-        "vehicles": 9,
-        "skins": 7,
-        "giveoff": 7
+        "questions": 7,
+        "server_cmd": 3,
+        "admin_cmd": 5,
+        "vehicles": 8,
+        "skins": 5,
+        "giveoff": 6
     },
     "api_url": "https://api.arztools.tech/"
 }
