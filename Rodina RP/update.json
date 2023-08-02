@@ -15,7 +15,7 @@
 		{ "address": "80.66.71.85:7777", "id": 505 }
 	],
 	"files": {
-		"gps": 1,
+		"gps": 2,
 		"questions": 1,
 		"server_cmd": 1,
 		"admin_cmd": 2,
