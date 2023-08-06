@@ -1,0 +1,15 @@
+{
+    "latest": 22,
+    "version": "1.5 Release",
+    "script_url": "https://raw.githubusercontent.com/aziatka/admin_app_release/main/Rodina%20RP/arztools.luac",
+    "api_url": "https://api.arztools.tech",
+    "critical": true,
+    "changes": [],
+    "servers": [
+        { "address": "185.169.134.163:7777", "id": 501, "name": "Central" },
+        { "address": "185.169.134.60:8904", "id": 502, "name": "Southern" },
+        { "address": "185.169.134.62:8904", "id": 503, "name": "Northern" },
+        { "address": "185.169.134.108:7777", "id": 504, "name": "Eastern" },
+        { "address": "80.66.71.85:7777", "id": 505, "name": "Western" }
+    ]
+}
