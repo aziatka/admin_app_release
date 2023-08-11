@@ -4,6 +4,7 @@
     "script_url": "https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
     "api_url": "https://api.arztools.tech",
     "critical": false,
+    "anticheat": true,
     "changes": [
         "Вырезана настройка скрытия варнингов на античит (просьба разработчиков Arizona RP)"
     ],
