@@ -1,12 +1,14 @@
 {
-    "latest": 83,
-    "version": "1.19.1 Release",
+    "latest": 84,
+    "version": "1.19.2 Release",
     "script_url": "https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
     "api_url": "https://api.arztools.tech",
-    "critical": false,
     "anticheat": true,
+    "critical": false,
     "changes": [
-        "Вырезана настройка скрытия варнингов на античит (просьба разработчиков Arizona RP)"
+        "Команда /respawn теперь может работать в реконе за игроком",
+        "Сбор информации в чекере лидеров ускорен в ~15 раз (c 75 c. до 5 с., при полном обновлении всех 32 фракций)",
+        "Настройки /regbot теперь сохраняются после перезагрузки скрипта"
     ],
     "servers": [
         { "address": "185.169.134.3:7777", "id": 1, "name": "Phoenix" },
