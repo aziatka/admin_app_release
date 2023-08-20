@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Fist",
+        "server_id": 0
+    },
+    {
+        "name": "Brass Knuckles",
+        "server_id": 1
+    },
+    {
+        "name": "Golf Club",
+        "server_id": 2
+    },
+    {
+        "name": "Nightstick",
+        "server_id": 3
+    },
+    {
+        "name": "Knife",
+        "server_id": 4
+    },
+    {
+        "name": "Baseball Bat",
+        "server_id": 5
+    },
+    {
+        "name": "Shovel",
+        "server_id": 6
+    },
+    {
+        "name": "Pool Cue",
+        "server_id": 7
+    },
+    {
+        "name": "Katana",
+        "server_id": 8
+    },
+    {
+        "name": "Chainsaw",
+        "server_id": 9
+    },
+    {
+        "name": "Purple Dildo",
+        "server_id": 10
+    },
+    {
+        "name": "Dildo",
+        "server_id": 11
+    },
+    {
+        "name": "Vibrator",
+        "server_id": 12
+    },
+    {
+        "name": "Silver Vibrator",
+        "server_id": 13
+    },
+    {
+        "name": "Flowers",
+        "server_id": 14
+    },
+    {
+        "name": "Cane",
+        "server_id": 15
+    },
+    {
+        "name": "Grenade",
+        "server_id": 16
+    },
+    {
+        "name": "Tear Gas",
+        "server_id": 17
+    },
+    {
+        "name": "Molotov Cocktail",
+        "server_id": 18
+    },
+    {
+        "name": "9mm",
+        "server_id": 22
+    },
+    {
+        "name": "Silenced 9mm",
+        "server_id": 23
+    },
+    {
+        "name": "Desert Eagle",
+        "server_id": 24
+    },
+    {
+        "name": "Shotgun",
+        "server_id": 25
+    },
+    {
+        "name": "Sawnoff Shotgun",
+        "server_id": 26
+    },
+    {
+        "name": "Combat Shotgun",
+        "server_id": 27
+    },
+    {
+        "name": "Micro Uzi",
+        "server_id": 28
+    },
+    {
+        "name": "MP5",
+        "server_id": 29
+    },
+    {
+        "name": "AK-47",
+        "server_id": 30
+    },
+    {
+        "name": "M4",
+        "server_id": 31
+    },
+    {
+        "name": "Tec-9",
+        "server_id": 32
+    },
+    {
+        "name": "Country Rifle",
+        "server_id": 33
+    },
+    {
+        "name": "Sniper Rifle",
+        "server_id": 34
+    },
+    {
+        "name": "RPG",
+        "server_id": 35
+    },
+    {
+        "name": "HS Rocket",
+        "server_id": 36
+    },
+    {
+        "name": "Flamethrower",
+        "server_id": 37
+    },
+    {
+        "name": "Minigun",
+        "server_id": 38
+    },
+    {
+        "name": "Satchel Charge",
+        "server_id": 39
+    },
+    {
+        "name": "Detonator",
+        "server_id": 40
+    },
+    {
+        "name": "Spraycan",
+        "server_id": 41
+    },
+    {
+        "name": "Fire Extinguisher",
+        "server_id": 42
+    },
+    {
+        "name": "Camera",
+        "server_id": 43
+    },
+    {
+        "name": "Night Vis Goggles",
+        "server_id": 44
+    },
+    {
+        "name": "Thermal Goggles",
+        "server_id": 45
+    },
+    {
+        "name": "Parachute",
+        "server_id": 46
+    },
+    {
+        "name": "Silver Deagle",
+        "server_id": 71
+    },
+    {
+        "name": "Gold Deagle",
+        "server_id": 72
+    }
+]
