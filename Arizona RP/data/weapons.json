@@ -182,5 +182,65 @@
     {
         "name": "Gold Deagle",
         "server_id": 72
+    },
+    {
+        "name": "Glock Gradient",
+        "server_id": 73
+    },
+    {
+        "name": "Deagle Flame",
+        "server_id": 74
+    },
+    {
+        "name": "Colt Python Royal",
+        "server_id": 75
+    },
+    {
+        "name": "Colt Python Silver",
+        "server_id": 76
+    },
+    {
+        "name": "AK47 Roses",
+        "server_id": 77
+    },
+    {
+        "name": "AK47 Gold",
+        "server_id": 78
+    },
+    {
+        "name": "M249 Graffiti",
+        "server_id": 79
+    },
+    {
+        "name": "Saiga Gold",
+        "server_id": 80
+    },
+    {
+        "name": "PPSh Standart",
+        "server_id": 81
+    },
+    {
+        "name": "M249 Standart",
+        "server_id": 82
+    },
+    {
+        "name": "Scorpion Standart",
+        "server_id": 83
+    },
+    {
+        "name": "AKS74 Camo 1",
+        "server_id": 84
+    },
+    {
+        "name": "AK47 Camo 1",
+        "server_id": 85
+    },
+    {
+        "name": "Shotgun Rebecca",
+        "server_id": 86
+    },
+    {
+        "name": "Doomgun",
+        "server_id": 87
     }
 ]

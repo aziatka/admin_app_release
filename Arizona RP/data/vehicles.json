@@ -3053,5 +3053,115 @@
         "name": "Ford Mustang Razor",
         "model_id": 14195,
         "server_id": 1010
+    },
+    {
+        "name": "RC Mavic",
+        "model_id": 14355,
+        "server_id": 1011
+    },
+    {
+        "name": "Bugatti Veyron",
+        "model_id": 6673,
+        "server_id": 1012
+    },
+    {
+        "name": "Lamborghini Centenario",
+        "model_id": 6674,
+        "server_id": 1013
+    },
+    {
+        "name": "Ford Bonco",
+        "model_id": 6675,
+        "server_id": 1014
+    },
+    {
+        "name": "Jeep Rubicon",
+        "model_id": 6676,
+        "server_id": 1015
+    },
+    {
+        "name": "Mitsubishi Pajero 3",
+        "model_id": 6677,
+        "server_id": 1016
+    },
+    {
+        "name": "BMW M3 G80",
+        "model_id": 6678,
+        "server_id": 1017
+    },
+    {
+        "name": "BMW X3 E83",
+        "model_id": 6679,
+        "server_id": 1018
+    },
+    {
+        "name": "Rolls-Royce Ghost",
+        "model_id": 6680,
+        "server_id": 1019
+    },
+    {
+        "name": "Avtoros Shaman",
+        "model_id": 6681,
+        "server_id": 1020
+    },
+    {
+        "name": "Lamborghini Countach",
+        "model_id": 6682,
+        "server_id": 1021
+    },
+    {
+        "name": "Mercedes-AMG GT R",
+        "model_id": 6683,
+        "server_id": 1022
+    },
+    {
+        "name": "Hummer H2",
+        "model_id": 6684,
+        "server_id": 1023
+    },
+    {
+        "name": "Mitsubishi Evo 8",
+        "model_id": 6685,
+        "server_id": 1024
+    },
+    {
+        "name": "Mercedes-AMG GT Black",
+        "model_id": 6686,
+        "server_id": 1025
+    },
+    {
+        "name": "Mercedes-Benz CLS55",
+        "model_id": 6687,
+        "server_id": 1026
+    },
+    {
+        "name": "JMC",
+        "model_id": 6693,
+        "server_id": 1027
+    },
+    {
+        "name": "Madcar",
+        "model_id": 15605,
+        "server_id": 1028
+    },
+    {
+        "name": "Peterblit Track \"Advance\"",
+        "model_id": 15618,
+        "server_id": 1029
+    },
+    {
+        "name": "Porsche 911 Turbo S",
+        "model_id": 15619,
+        "server_id": 1030
+    },
+    {
+        "name": "Madtrain",
+        "model_id": 15620,
+        "server_id": 1031
+    },
+    {
+        "name": "Volvo 460 \"Diamond\"",
+        "model_id": 15621,
+        "server_id": 1032
     }
 ]

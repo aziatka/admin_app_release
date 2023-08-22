@@ -3673,5 +3673,100 @@
         "name": "Трисс Меригольд",
         "model_id": 14354,
         "server_id": 735
+    },
+    {
+        "name": "Витя АК",
+        "model_id": 6661,
+        "server_id": 736
+    },
+    {
+        "name": "Бандит",
+        "model_id": 6662,
+        "server_id": 737
+    },
+    {
+        "name": "Майор Дегтярёв",
+        "model_id": 6663,
+        "server_id": 738
+    },
+    {
+        "name": "Череп (Долговец)",
+        "model_id": 6664,
+        "server_id": 739
+    },
+    {
+        "name": "Карл Гейзенберг",
+        "model_id": 6665,
+        "server_id": 740
+    },
+    {
+        "name": "Стрелок (Меченый)",
+        "model_id": 6666,
+        "server_id": 741
+    },
+    {
+        "name": "Наташа (НА-Т256)",
+        "model_id": 6667,
+        "server_id": 742
+    },
+    {
+        "name": "Пенёк",
+        "model_id": 6668,
+        "server_id": 743
+    },
+    {
+        "name": "Сидорович",
+        "model_id": 6669,
+        "server_id": 744
+    },
+    {
+        "name": "Вова (ВОВ-А6)",
+        "model_id": 6670,
+        "server_id": 745
+    },
+    {
+        "name": "Странник",
+        "model_id": 6671,
+        "server_id": 746
+    },
+    {
+        "name": "Уолтер Уайт",
+        "model_id": 6672,
+        "server_id": 747
+    },
+    {
+        "name": "Хранитель",
+        "model_id": 14339,
+        "server_id": 748
+    },
+    {
+        "name": "Advance Girl",
+        "model_id": 6689,
+        "server_id": 749
+    },
+    {
+        "name": "Diamond Girl",
+        "model_id": 6690,
+        "server_id": 750
+    },
+    {
+        "name": "Advance Man",
+        "model_id": 6691,
+        "server_id": 751
+    },
+    {
+        "name": "Diamond Man",
+        "model_id": 6692,
+        "server_id": 752
+    },
+    {
+        "name": "Элли",
+        "model_id": 12629,
+        "server_id": 753
+    },
+    {
+        "name": "Собака Катсу",
+        "model_id": 14358,
+        "server_id": 754
     }
 ]
