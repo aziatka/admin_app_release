@@ -37,6 +37,7 @@
         { "address": "80.66.82.132:7777", "id": 23, "name": "Holiday" },
         { "address": "80.66.82.128:7777", "id": 24, "name": "Wednesday" },
         { "address": "80.66.82.113:7777", "id": 25, "name": "Yava" },
+        { "address": "80.66.82.82:7777", "id": 26, "name": "Faraway" },
         { "address": "80.66.82.162:5125", "id": 101, "name": "Mobile 1" },
         { "address": "80.66.82.148:5125", "id": 102, "name": "Mobile 2" },
         { "address": "80.66.82.136:5125", "id": 103, "name": "Mobile 3" },
