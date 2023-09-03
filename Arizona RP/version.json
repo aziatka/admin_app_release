@@ -1,7 +1,7 @@
 {
     "latest": 85,
     "version": "1.19.2 Release",
-    "script_url": "https://raw.githubusercontent.com/aziatka/admin_app_release/main/Arizona%20RP/arztools.luac",
+    "script_url": "https://pc.az-ins.com/resource/scripts/tools/arizona/arztools.luac",
     "api_url": "https://api.arztools.tech",
     "anticheat": true,
     "critical": false,
