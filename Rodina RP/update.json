@@ -1,11 +1,11 @@
 {
-	"latest": 21,
-	"version": "1.4.1 Release",
-	"updateurl":"https://raw.githubusercontent.com/aziatka/admin_app_release/main/Rodina%20RP/arztools.luac",
+	"latest": 36,
+	"version": "1.5 Release",
+	"updateurl": "https://pc.az-ins.com/resource/scripts/tools/rodina/arztools.luac",
 	"patch_load": false,
-	"critical": false,
+	"critical": true,
 	"changes": [
-		"Исправления крашей и незначительные улучшения"
+		"Долгожданное обновление для Rodina RP уже доступно! Спустя пол года ожидания мы рады представить множество новых систем и функций, таких как оффлайн выдача наказаний, авто-опра, система авторизации, глобальные изменения в биндере и ещё множество других улучшений от которых, мы надеемся, вы не упадёте в оборок. Кроме того, мы уделили огромное внимание исправлению различных ошибок и недоработок. Представляем вам совершенно новый, но в то же время знакомый Arizona Tools!"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
